@@ -4,5 +4,7 @@ https://studio.code.org/projects/applab/T9WkQzskOzLvZ2EXR9htFFNG90uhMkdN_dPKdLsc
 
 I also uploaded a video of the game on my YouTube channel:
 
-https://youtu.be/15xn72hUjsM
+<a href="https://youtu.be/15xn72hUjsM">
+<img src="images/pokemon.PNG" width=800>
+</a>
 
