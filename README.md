@@ -2,7 +2,7 @@ This project was built in the course of three months for a computer science cour
 
 https://studio.code.org/projects/applab/T9WkQzskOzLvZ2EXR9htFFNG90uhMkdN_dPKdLscx20
 
-I also uploaded a video of the game on my YouTube channel:
+I also uploaded a video of the game on my YouTube channel. Click on the image to watch.
 
 <a href="https://youtu.be/15xn72hUjsM">
 <img src="images/pokemon.PNG" width=800>
