@@ -4,4 +4,5 @@ https://studio.code.org/projects/applab/T9WkQzskOzLvZ2EXR9htFFNG90uhMkdN_dPKdLsc
 
 I also uploaded a video of the game on my YouTube channel:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15xn72hUjsM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/15xn72hUjsM
+
